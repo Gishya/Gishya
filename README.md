@@ -33,13 +33,6 @@ I love mixing **creativity with logic**, and that’s what keeps me going.
 
 ---
 
-### 📈 GitHub Stats
-
-![Gishya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GishyaMendis&show_icons=true&theme=tokyonight&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GishyaMendis&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/gishya-mendis-in)  
 - 📩 Drop me a message via GitHub 
