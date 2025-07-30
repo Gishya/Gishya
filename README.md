@@ -41,8 +41,8 @@ I love mixing **creativity with logic**, and that’s what keeps me going.
 ---
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) *(update with your real LinkedIn link)*
-- 📩 Drop me a message via GitHub or email *(you can add your email if you're okay with it)*
+- 💼 [LinkedIn](www.linkedin.com/in/gishya-mendis-in)  
+- 📩 Drop me a message via GitHub 
 
 > “Code is not just syntax, it’s an art of thinking clearly.” — Me
 
