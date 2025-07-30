@@ -1,6 +1,6 @@
  # 👋 Hi there, I'm Gishya Mendis!
 
-🎓 A proud graduate from the **University of Westminster(UOW)**  
+🎓 A  undergraduate from the **University of Westminster(UOW)**  
 💻 A passionate **Full Stack Software Engineer**  
 🌍 From  **Sri Lanka**  
 
